@@ -1,0 +1,16 @@
+{
+    "bar": {
+        "bar": [
+            {"store_name": "Hy-Vee #3 / BDI / Des Moines", "sum": 3650300.0},
+            {"store_name": "Central City 2", "sum": 3611560.0},
+            {"store_name": "Hy-Vee Food Store / Urbandale", "sum": 1666060.0},
+            {"store_name": "Hy-Vee Wine and Spirits / Iowa City", "sum": 1659660.0},
+            {"store_name": "Costco Wholesale #788 / WDM", "sum": 1304060.0},
+            {"store_name": "Wilkie Liquors", "sum": 1221330.0},
+            {"store_name": "Sam's Club 8162 / Cedar Rapids", "sum": 1045720.0},
+            {"store_name": "Benz Distributing", "sum": 1011430.0},
+            {"store_name": "Lot-A-Spirits", "sum": 965678},
+            {"store_name": "Hy-Vee Food Store / Coralville", "sum": 957849}
+        ]
+    }
+}
