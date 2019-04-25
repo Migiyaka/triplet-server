@@ -40,7 +40,7 @@
             {"store_name": "Hy-Vee Food Store / Coralville", "sum": 957849, "count": 4425}
         ]
     },
-    "single: {
+    "single": {
         "single": [
             {"max": 279557}
         ]
