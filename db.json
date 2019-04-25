@@ -39,5 +39,10 @@
             {"store_name": "Lot-A-Spirits", "sum": 965677, "count": 2633},
             {"store_name": "Hy-Vee Food Store / Coralville", "sum": 957849, "count": 4425}
         ]
+    },
+    "single: {
+        "single": [
+            {"max": 279557}
+        ]
     }
 }
